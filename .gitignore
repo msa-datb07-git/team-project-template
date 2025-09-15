@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.png
+.vscode/
+.DS_Store
+# generated files: everything in outputs/ is ignored, except .gitkeep (it keeps the empty folder in Git)
+outputs/*
+!outputs/.gitkeep
