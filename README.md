@@ -7,8 +7,7 @@ A small Python package that computes revenue figures from `data/sales.csv`.
 
 ## Team
 
-<!-- Replace with your team number, names and GitHub handles -->
-- Team N
+<!-- Replace with the names and GitHub user names of your team -->
 - Firstname Lastname (@handle)
 
 ## Features
